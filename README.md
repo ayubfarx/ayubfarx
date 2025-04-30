@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Ayub Farah
 
-<!--
-**ayubfarx/ayubfarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT Infrastructure student at the University of Minnesota – Twin Cities.  
+Currently building hands-on skills in Git, Linux, cloud administration, and automation tools.
 
-Here are some ideas to get you started:
+Coursework Highlights:  
+- INET 4031 – Server Systems & Cloud Computing  
+- Projects involving LAMP stack deployment, Puppet automation, and GitHub workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:
+- Cloud technologies  
+- IT for human services  
+- Infrastructure automation  
+- Supporting DHS-funded organizations with scalable solutions
+
+Contact:  
+Reach out through GitHub or my University of Minnesota email.
